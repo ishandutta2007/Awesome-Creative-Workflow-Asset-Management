@@ -33,77 +33,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global Digital Asset Management (DAM) and Creative Workflow market is estimated at **$5.5B to $8.9B in 2025–2026**, expanding at a CAGR of ~15–17%. The sector is **moderately to highly fragmented overall** with hundreds of specialized point solutions and emerging vertical tools, though the top tier remains concentrated among major enterprise cloud suites (such as Adobe, Bynder, and Sitecore) commanding large enterprise and Fortune 500 deployments.
 
 ## SaaS/Hosted Platforms
 
-- **[Adobe Content Supply Chain / Experience Manager Assets](https://business.adobe.com/products/experience-manager/assets.html)**  
-
-  Enterprise content and digital asset management tightly integrated with Adobe Creative Cloud and Experience Cloud for large-scale brand and marketing operations.
-
-
-
-- **[Aprimo](https://www.aprimo.com/)**  
-
-  Comprehensive marketing content operations and DAM platform focused on planning, production, distribution, and performance of branded content.
-
-
-
-- **[Sitecore Content Hub](https://www.sitecore.com/products/content-hub)**  
-
-  Unified content and digital asset management platform with strong workflow, localization, and omnichannel delivery capabilities.
-
-
-
-- **[Bynder](https://www.bynder.com/)**  
-
-  Popular cloud DAM and brand management platform known for intuitive search, brand portals, templates, and creative workflow features.
-
-
-
-- **[Celum](https://www.celum.com/)**  
-
-  Digital asset and content management system emphasizing collaboration, automation, and enterprise-scale media libraries.
-
-
-
-- **[censhare](https://www.censhare.com/)**  
-
-  Integrated content and digital asset management platform for complex multi-channel publishing and brand management.
-
-
-
-- **[BrandMaker](https://www.brandmaker.com/)**  
-
-  Marketing resource management and DAM suite covering asset management, campaign planning, and brand compliance.
-
-
-
-- **[Wedia](https://www.wedia-group.com/)**  
-
-  Enterprise DAM and content hub focused on brand consistency, media processing, and global distribution.
-
-
-
-- **[Storyteq](https://www.storyteq.com/)**  
-
-  Creative automation and asset management platform specializing in personalized video and scalable brand content production.
-
-
-
-- **[Frontify](https://www.frontify.com/)**  
-
-  Brand management platform combining digital asset management, brand guidelines, templates, and collaboration tools in one place.
-
-
+| Product | Description | Company Size (Revenue / Valuation) | Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe Content Supply Chain / AEM Assets](https://business.adobe.com/products/experience-manager/assets.html)** | Enterprise content and digital asset management integrated with Adobe Creative Cloud. | **~$195B+ Market Cap** (~$21.5B+ annual revenue) | Starting at **~$25,000 to $40,000/year** (AEM Assets Prime entry tier; enterprise bundles reach $100,000+/year) | No permanent free tier; No self-serve trial (custom guided sandbox/PoC upon sales qualification) |
+| **[Sitecore Content Hub](https://www.sitecore.com/products/content-hub)** | Unified content and digital asset management platform with workflow, localization, and omnichannel delivery. | **~$500M+ ARR** (~$1.2B+ PE valuation backed by EQT) | Starting at **~$25,000 to $45,000/year** (custom enterprise quotes based on modules and storage) | No permanent free tier; No self-serve trial (custom sandboxes provided only via partner/sales PoC) |
+| **[Bynder](https://www.bynder.com/)** | Cloud DAM and brand management platform known for intuitive search, brand portals, and creative workflows. | **~$600M+ Valuation** (~$100M+ ARR; backed by Thomas H. Lee Partners) | Starting at **~$450/month** (~$5,400 to $9,000/year base; median enterprise contracts range $35,000–$40,000/year) | No permanent free tier; No self-serve free trial (guided demo and tailored consultation only) |
+| **[Aprimo](https://www.aprimo.com/)** | Comprehensive marketing operations and DAM platform focused on content planning, production, and distribution. | **~$35M to $50M ARR** (acquired by Marlin Equity Partners, historically $90M–$525M transactions) | Starting at **~$1,667/month** (~$20,000/year baseline DAM subscription) | No permanent free tier; No self-serve free trial (guided live demo and customized PoC evaluation only) |
+| **[censhare](https://www.censhare.com/)** | Universal content and digital asset management platform for multi-channel publishing and brand management. | **~$20M to $35M ARR** (~$29.6M total funding; backed by DuMont) | Starting at **~$1,000/month** (~$12,000/year for baseline configuration of ~5 named users) | No permanent free tier; No self-serve trial (evaluations require scheduled sales demo/PoC) |
+| **[Celum](https://www.celum.com/)** | Enterprise digital asset and content management system emphasizing media libraries and collaboration. | **~$20M to $25M ARR** (Privately held, self-financed European DAM provider) | Starting at **~$850 to $1,500/month** (~$10,000 to $18,000/year entry enterprise tier) | No permanent free tier; No self-serve trial (available via requested sales demo and custom PoC) |
+| **[BrandMaker (Uptempo)](https://www.brandmaker.com/)** | Marketing resource management and DAM suite covering asset management and campaign planning. | **~$20M to $30M ARR** (Part of Uptempo, backed by Rubicon Technology Partners) | Starting at **~$2,000/month** (~$24,000/year base deployment) | No permanent free tier; No self-serve free trial (personalized product demo only) |
+| **[Frontify](https://www.frontify.com/)** | Brand management platform combining DAM, digital brand guidelines, templates, and collaboration. | **~$20M to $30M ARR** (~$80.6M total funding, Series C backed by Revaia & EQT) | Starting at **~$100 to $150/month** (~$1,200 to $1,800/year for Essentials tier; custom scaling by MAU) | No permanent free tier; **14-day free trial** (restricted to core brand guidelines & essential DAM features, standard cloud sandbox) |
+| **[Wedia](https://www.wedia-group.com/)** | Enterprise DAM and content hub focused on brand consistency, media processing, and distribution. | **~$27M Valuation** (~€26M market cap on Euronext Growth; ~€13M–€14M annual revenue) | Starting at **~$1,200/month** (~$14,400/year entry configuration) | No permanent free tier; No self-serve trial (free demo and sandbox access upon qualification) |
+| **[Storyteq](https://www.storyteq.com/)** | Creative automation and asset management platform specializing in video and omnichannel production. | **~$5M to $10M ARR** (Division of Inspired Thinking Group / ITG, ~$190M+ group revenue backed by Bridgepoint) | Starting at **~$2,150/month** (~€1,999/month billed annually) | No permanent free tier; No self-serve free trial (available via scheduled enterprise demo) |
 
 ## Open-Source GitHub Projects
 

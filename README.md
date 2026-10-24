@@ -1,49 +1,48 @@
-# Awesome-Creative-Workflow-Asset-Management
-# Awesome-Creative-Workflow-Asset-Management
+<div align="center">
 
-## Top Creative Workflow & Asset Management
+<img src="./assets/banner.svg" alt="Awesome Creative Workflow & Asset Management Banner" width="100%" />
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+# 🎨 Awesome Creative Workflow & Asset Management
 
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Curated List](https://img.shields.io/badge/Curated-List-blue.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Creative-Workflow-Asset-Management)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Creative-Workflow-Asset-Management/blob/main/README.md#how-to-contribute)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
+**The definitive curated index of SaaS platforms & open-source solutions for Digital Asset Management (DAM), Brand Management, Content Operations, and Creative Approval Pipelines.**
 
-*Focused on Digital Asset Management (DAM), Brand Asset Management, Creative Workflows, Content Hubs & Approval Pipelines*
-
-
+*Centralize assets • Enforce brand guidelines • Automate review & approval workflows • Streamline content supply chains*
 
 **Last updated: October 2026**
 
+</div>
 
+---
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Creative Workflow & Asset Management**. These products help marketing, brand, creative, and production teams centralize digital assets, enforce brand guidelines, manage approvals, version control, rights, and distribute content efficiently across channels.
+## 📌 Table of Contents
 
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Enterprise Hosted Platforms](#-saas--enterprise-hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🏗️ Architectural Guidelines & Pipelines](#️-architectural-guidelines--pipelines)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [☕ Support](#-support)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
 
+---
 
-**Examples** include Adobe Content Supply Chain, Aprimo, Sitecore Content Hub, Bynder, Celum, censhare, BrandMaker, Wedia, Storyteq, and Frontify (the category leaders).
+## 🌐 Sector Overview & Market Dynamics
 
+The global Digital Asset Management (DAM) and Creative Workflow market is valued at **$5.5B to $8.9B in 2025–2026**, expanding at a robust Compound Annual Growth Rate (CAGR) of **~15–17%**. 
 
+- **Ecosystem Fragmentation**: The broader industry is **moderately to highly fragmented**. Hundreds of specialized point solutions, vertical-specific creative tools, and cloud-native disruptors coexist to serve diverse requirements spanning mid-market marketing departments, game studios, and agency operations.
+- **Enterprise Consolidation**: The top-tier market share remains concentrated among major enterprise cloud suites (notably Adobe, Bynder, and Sitecore) that command Fortune 500 digital asset supply chains with deep MarTech integrations and global governance.
 
-**Open-source emphasis**: Digital asset and creative workflow tools have solid open options. **ResourceSpace**, **Pimcore**, **Phraseanet/Phrasea**, **TACTIC**, **Artbucket**, and related projects enable self-hosted, transparent, and fully controllable asset libraries and workflows. This section is heavily expanded.
+---
 
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global Digital Asset Management (DAM) and Creative Workflow market is estimated at **$5.5B to $8.9B in 2025–2026**, expanding at a CAGR of ~15–17%. The sector is **moderately to highly fragmented overall** with hundreds of specialized point solutions and emerging vertical tools, though the top tier remains concentrated among major enterprise cloud suites (such as Adobe, Bynder, and Sitecore) commanding large enterprise and Fortune 500 deployments.
-
-## SaaS/Hosted Platforms
+## 🏢 SaaS & Enterprise Hosted Platforms
 
 | Product | Description | Company Size (Revenue / Valuation) | Pricing | Free Tier / Free Trial Limits |
 | :--- | :--- | :--- | :--- | :--- |
@@ -58,116 +57,98 @@ The global Digital Asset Management (DAM) and Creative Workflow market is estima
 | **[Wedia](https://www.wedia-group.com/)** | Enterprise DAM and content hub focused on brand consistency, media processing, and distribution. | **~$27M Valuation** (~€26M market cap on Euronext Growth; ~€13M–€14M annual revenue) | Starting at **~$1,200/month** (~$14,400/year entry configuration) | No permanent free tier; No self-serve trial (free demo and sandbox access upon qualification) |
 | **[Storyteq](https://www.storyteq.com/)** | Creative automation and asset management platform specializing in video and omnichannel production. | **~$5M to $10M ARR** (Division of Inspired Thinking Group / ITG, ~$190M+ group revenue backed by Bridgepoint) | Starting at **~$2,150/month** (~€1,999/month billed annually) | No permanent free tier; No self-serve free trial (available via scheduled enterprise demo) |
 
-## Open-Source GitHub Projects
+---
 
-- **[ResourceSpace](https://github.com/resourcespace/resourcespace)**  
+## 💻 Open-Source GitHub Projects
 
-  Mature open-source Digital Asset Management system for images, video, documents, and audio. Strong metadata, permissions, workflows, search, and self-hosting with optional managed cloud.
+Curated self-hosted and open-core projects for digital asset storage, creative collaboration, media indexing, and production pipelines. Ranked by GitHub star popularity:
 
+- **[Immich](https://github.com/immich-app/immich)** [![GitHub stars](https://img.shields.io/github/stars/immich-app/immich?style=social&color=white)](https://github.com/immich-app/immich/stargazers)  
+  High-performance self-hosted photo and video management system featuring automatic backups, AI-driven facial recognition, clip indexing, and modern web & mobile clients. Ideal for media-heavy creative teams.
 
+- **[PhotoPrism](https://github.com/photoprism/photoprism)** [![GitHub stars](https://img.shields.io/github/stars/photoprism/photoprism?style=social&color=white)](https://github.com/photoprism/photoprism/stargazers)  
+  AI-powered self-hosted media and digital asset platform. Leverages deep learning to tag and find photos, offers high-res RAW support, duplicate detection, and map-based metadata exploration.
 
-- **[Pimcore](https://github.com/pimcore/pimcore)**  
+- **[LibrePhotos](https://github.com/LibrePhotos/librephotos)** [![GitHub stars](https://img.shields.io/github/stars/LibrePhotos/librephotos?style=social&color=white)](https://github.com/LibrePhotos/librephotos/stargazers)  
+  Self-hosted, privacy-first photo management service with deep semantic search, facial recognition, video transcoding, and complete multi-user access control.
 
-  Open-core platform combining DAM, PIM/MDM, CMS, and digital experience management. Highly extensible and widely used for enterprise asset and product data needs.
+- **[Pimcore](https://github.com/pimcore/pimcore)** [![GitHub stars](https://img.shields.io/github/stars/pimcore/pimcore?style=social&color=white)](https://github.com/pimcore/pimcore/stargazers)  
+  Enterprise open-core framework combining Digital Asset Management (DAM), Product Information Management (PIM), MDM, and digital experience engines into a single extensible platform.
 
+- **[Piwigo](https://github.com/Piwigo/Piwigo)** [![GitHub stars](https://img.shields.io/github/stars/Piwigo/Piwigo?style=social&color=white)](https://github.com/Piwigo/Piwigo/stargazers)  
+  Mature, extensible web-based photo and media gallery system. Offers granular access permissions, bulk asset metadata editing, extensive theme/plugin ecosystem, and REST API.
 
+- **[DSpace](https://github.com/DSpace/DSpace)** [![GitHub stars](https://img.shields.io/github/stars/DSpace/DSpace?style=social&color=white)](https://github.com/DSpace/DSpace/stargazers)  
+  Turnkey institutional repository and digital asset management platform used globally by research institutions, libraries, and organizations for preserving rich multimedia assets and documents.
 
-- **[Phraseanet / Phrasea](https://github.com/alchemy-fr/Phraseanet)**  
+- **[Invenio](https://github.com/inveniosoftware/invenio)** [![GitHub stars](https://img.shields.io/github/stars/inveniosoftware/invenio?style=social&color=white)](https://github.com/inveniosoftware/invenio/stargazers)  
+  Framework for large-scale digital repositories and asset archives developed by CERN. Features petabyte-scale metadata modeling, elastic search indices, and distributed object storage.
 
-  Open-source web-based DAM with powerful search (Elasticsearch), AI-assisted indexing, granular permissions, workflows, and API-first architecture.
+- **[TACTIC](https://github.com/Southpaw-TACTIC/TACTIC)** [![GitHub stars](https://img.shields.io/github/stars/Southpaw-TACTIC/TACTIC?style=social&color=white)](https://github.com/Southpaw-TACTIC/TACTIC/stargazers)  
+  Dynamic enterprise workflow engine and asset management solution designed specifically for digital content production pipelines, VFX studios, and creative collaboration tracking.
 
+- **[CollectiveAccess](https://github.com/collectiveaccess/providence)** [![GitHub stars](https://img.shields.io/github/stars/collectiveaccess/providence?style=social&color=white)](https://github.com/collectiveaccess/providence/stargazers)  
+  Configurable relational cataloguing and digital asset repository software built for cultural institutions, digital heritage, and specialized multi-format media archives.
 
+- **[OpenAssetIO](https://github.com/OpenAssetIO/OpenAssetIO)** [![GitHub stars](https://img.shields.io/github/stars/OpenAssetIO/OpenAssetIO?style=social&color=white)](https://github.com/OpenAssetIO/OpenAssetIO/stargazers)  
+  Open-source interoperability standard enabling creative tools, DCC applications, and content management systems to communicate seamless asset references across production pipelines.
 
-- **[TACTIC](https://github.com/Southpaw-TACTIC/TACTIC)**  
+- **[Phraseanet / Phrasea](https://github.com/alchemy-fr/Phraseanet)** [![GitHub stars](https://img.shields.io/github/stars/alchemy-fr/Phraseanet?style=social&color=white)](https://github.com/alchemy-fr/Phraseanet/stargazers)  
+  Full-featured open-source web DAM with Elasticsearch indexing, AI-assisted tagging, automated media conversions, export pipelines, and granular rights management.
 
-  Open-source remote collaboration and workflow platform designed for digital asset pipelines, production tracking, and process automation.
+- **[AtroDAM](https://github.com/atrocore/atrodam)** [![GitHub stars](https://img.shields.io/github/stars/atrocore/atrodam?style=social&color=white)](https://github.com/atrocore/atrodam/stargazers)  
+  Modern single-page application (SPA) digital asset management system built on AtroCore. Supports automatic duplicate detection, asset relationships, batch metadata editing, and RESTful API integration.
 
+- **[ResourceSpace](https://github.com/resourcespace/resourcespace)** [![GitHub stars](https://img.shields.io/github/stars/resourcespace/resourcespace?style=social&color=white)](https://github.com/resourcespace/resourcespace/stargazers)  
+  Time-tested open-source DAM system for enterprise images, video, brand collateral, and audio. Features robust metadata schemas, permission hierarchies, and automated transcoding.
 
+- **[Artbucket](https://github.com/pwnera/artbucket)** [![GitHub stars](https://img.shields.io/github/stars/pwnera/artbucket?style=social&color=white)](https://github.com/pwnera/artbucket/stargazers)  
+  Modern self-hosted DAM and brand guideline manager. Treats design assets, rules, and portals as structured data, with REST APIs, CLI tooling, and Model Context Protocol (MCP) support for AI agents.
 
-- **[Artbucket](https://github.com/pwnera/artbucket)**  
-
-  Modern open-source self-hosted DAM and brand manager. Treats assets, guidelines, rules, and portals as data, with REST, CLI, MCP support for teams and AI agents.
-
-
-
-- **[Piwigo](https://github.com/Piwigo/Piwigo)**  
-
-  Self-hosted photo and media gallery with albums, permissions, plugins, and API. Frequently adapted for organizational asset libraries.
-
-
-
-- **[CollectiveAccess](https://github.com/collectiveaccess/providence)**  
-
-  Open-source collections management and cataloguing system used by museums, archives, and institutions for structured digital assets.
-
-
-
-- **[OpenAssetIO](https://github.com/OpenAssetIO/OpenAssetIO)**  
-
-  Open-source interoperability standard for media production tools and content management systems, enabling consistent asset referencing across pipelines.
-
-
-
-- **[Stash](https://github.com/nixentric/stash)**  
-
-  Lightweight offline-first creative asset manager for editors and designers with organization, usage tracking, fast search, and interactive brand guidelines.
-
-
-
-- **[Immich](https://github.com/immich-app/immich)**  
-
-  High-performance open-source photo and video management platform with self-hosting, facial recognition, search, and mobile clients — strong for media-heavy teams.
-
-
-
-### Additional Strong Open-Source Options
-
-- Full enterprise-style DAM: **ResourceSpace**, **Pimcore**, **Phraseanet**.
-
-- Workflow & production pipelines: **TACTIC**, **OpenAssetIO**.
-
-- Brand guidelines + assets: **Artbucket**, **Stash**.
-
-- Media-centric libraries: **Piwigo**, **Immich**, **CollectiveAccess**.
-
-- Institutional / archival: **DSpace**, **CollectiveAccess**.
-
-- Accepting that commercial platforms (Bynder, Frontify, Aprimo, Adobe, Sitecore Content Hub, Celum) still lead in polished brand portals, advanced automation, global support, and out-of-the-box marketing integrations.
-
-
-
-**Frameworks for building custom systems**: Deploy **ResourceSpace** or **Pimcore** as the core DAM → add **Phraseanet** or **TACTIC** for advanced workflows → use **Artbucket** or **Stash** for brand guidelines and lightweight access → integrate via APIs or OpenAssetIO standards. Suitable for organizations that need data ownership, customization, and zero per-seat licensing. Many teams still pair open-source DAMs with commercial tools for specific brand or creative automation needs.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Digital asset and workflow platforms handle sensitive brand assets and may involve rights management, compliance, and storage considerations. Review security, backup, and data policies carefully. Self-hosted open-source options give maximum control. This list is not security or legal advice.
-
-
+- **[Stash](https://github.com/nixentric/stash)** [![GitHub stars](https://img.shields.io/github/stars/nixentric/stash?style=social&color=white)](https://github.com/nixentric/stash/stargazers)  
+  Lightweight offline-first creative asset organizer and brand style manager tailored for digital artists, designers, and video editors with local caching and fast search.
 
 ---
 
-**Made for brand managers, creative operations teams, marketing technologists, and open-source advocates.**
+## 🏗️ Architectural Guidelines & Pipelines
 
+Building a tailored internal creative asset infrastructure:
 
+1. **Enterprise Foundation**: Deploy **ResourceSpace**, **Pimcore**, or **AtroDAM** for core asset ingestion, metadata taxonomies, and permission boundaries.
+2. **Production & Automation**: Integrate **TACTIC** or **OpenAssetIO** to automate production handoffs, reviews, and DCC software integration (Blender, Premiere, Photoshop).
+3. **Brand Portals & Guidelines**: Utilize **Artbucket** or **Frontify** for external stakeholder portals, dynamic style guides, and brand governance.
+4. **Media Archives & Search**: Pair with **Immich** or **PhotoPrism** for AI-accelerated visual search and mobile asset synchronization.
 
-Let's keep creative workflows transparent, controllable, and as open as practical.
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Help keep this directory current, accurate, and comprehensive.
+
+1. 🍴 **Fork** this repository.
+2. 🌿 Create a descriptive feature branch (`git checkout -b add-new-asset-tool`).
+3. 📝 Update `README.md` following the established tabular format (SaaS) or star badge format (Open-Source).
+4. 🚀 **Commit** and **Push** your branch, then open a **Pull Request** detailing your additions.
+
+---
+
+## ☕ Support
+
+If you found this curated list helpful for your team, organization, or personal projects, please consider supporting the project:
+
+- ⭐ **Star** this repository on GitHub to boost visibility.
+- 🍴 **Fork** and share it with fellow creative directors, developers, and marketing ops leaders.
+- ☕ **Buy me a coffee / Sponsor the project**: Support ongoing maintenance and curated research via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Creative-Workflow-Asset-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Creative-Workflow-Asset-Management&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a community-curated directory intended for educational and architectural reference only. Listing does not imply commercial endorsement.
+- Digital asset systems frequently handle sensitive intellectual property, licensed photography, and personal data. Always conduct appropriate security, SLA, and compliance evaluations before enterprise deployment.

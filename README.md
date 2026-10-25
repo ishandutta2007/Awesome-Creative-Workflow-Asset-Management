@@ -63,49 +63,49 @@ The global Digital Asset Management (DAM) and Creative Workflow market is valued
 
 Curated self-hosted and open-core projects for digital asset storage, creative collaboration, media indexing, and production pipelines. Ranked by GitHub star popularity:
 
-- **[Immich](https://github.com/immich-app/immich)** [![GitHub stars](https://img.shields.io/github/stars/immich-app/immich?style=social&color=white)](https://github.com/immich-app/immich/stargazers)  
+- **[Immich](https://github.com/immich-app/immich)** [![GitHub_Stars](https://img.shields.io/github/stars/immich-app/immich?style=social&color=white)](https://github.com/immich-app/immich/stargazers)  
   High-performance self-hosted photo and video management system featuring automatic backups, AI-driven facial recognition, clip indexing, and modern web & mobile clients. Ideal for media-heavy creative teams.
 
-- **[PhotoPrism](https://github.com/photoprism/photoprism)** [![GitHub stars](https://img.shields.io/github/stars/photoprism/photoprism?style=social&color=white)](https://github.com/photoprism/photoprism/stargazers)  
+- **[PhotoPrism](https://github.com/photoprism/photoprism)** [![GitHub_Stars](https://img.shields.io/github/stars/photoprism/photoprism?style=social&color=white)](https://github.com/photoprism/photoprism/stargazers)  
   AI-powered self-hosted media and digital asset platform. Leverages deep learning to tag and find photos, offers high-res RAW support, duplicate detection, and map-based metadata exploration.
 
-- **[LibrePhotos](https://github.com/LibrePhotos/librephotos)** [![GitHub stars](https://img.shields.io/github/stars/LibrePhotos/librephotos?style=social&color=white)](https://github.com/LibrePhotos/librephotos/stargazers)  
+- **[LibrePhotos](https://github.com/LibrePhotos/librephotos)** [![GitHub_Stars](https://img.shields.io/github/stars/LibrePhotos/librephotos?style=social&color=white)](https://github.com/LibrePhotos/librephotos/stargazers)  
   Self-hosted, privacy-first photo management service with deep semantic search, facial recognition, video transcoding, and complete multi-user access control.
 
-- **[Pimcore](https://github.com/pimcore/pimcore)** [![GitHub stars](https://img.shields.io/github/stars/pimcore/pimcore?style=social&color=white)](https://github.com/pimcore/pimcore/stargazers)  
+- **[Pimcore](https://github.com/pimcore/pimcore)** [![GitHub_Stars](https://img.shields.io/github/stars/pimcore/pimcore?style=social&color=white)](https://github.com/pimcore/pimcore/stargazers)  
   Enterprise open-core framework combining Digital Asset Management (DAM), Product Information Management (PIM), MDM, and digital experience engines into a single extensible platform.
 
-- **[Piwigo](https://github.com/Piwigo/Piwigo)** [![GitHub stars](https://img.shields.io/github/stars/Piwigo/Piwigo?style=social&color=white)](https://github.com/Piwigo/Piwigo/stargazers)  
+- **[Piwigo](https://github.com/Piwigo/Piwigo)** [![GitHub_Stars](https://img.shields.io/github/stars/Piwigo/Piwigo?style=social&color=white)](https://github.com/Piwigo/Piwigo/stargazers)  
   Mature, extensible web-based photo and media gallery system. Offers granular access permissions, bulk asset metadata editing, extensive theme/plugin ecosystem, and REST API.
 
-- **[DSpace](https://github.com/DSpace/DSpace)** [![GitHub stars](https://img.shields.io/github/stars/DSpace/DSpace?style=social&color=white)](https://github.com/DSpace/DSpace/stargazers)  
+- **[DSpace](https://github.com/DSpace/DSpace)** [![GitHub_Stars](https://img.shields.io/github/stars/DSpace/DSpace?style=social&color=white)](https://github.com/DSpace/DSpace/stargazers)  
   Turnkey institutional repository and digital asset management platform used globally by research institutions, libraries, and organizations for preserving rich multimedia assets and documents.
 
-- **[Invenio](https://github.com/inveniosoftware/invenio)** [![GitHub stars](https://img.shields.io/github/stars/inveniosoftware/invenio?style=social&color=white)](https://github.com/inveniosoftware/invenio/stargazers)  
+- **[Invenio](https://github.com/inveniosoftware/invenio)** [![GitHub_Stars](https://img.shields.io/github/stars/inveniosoftware/invenio?style=social&color=white)](https://github.com/inveniosoftware/invenio/stargazers)  
   Framework for large-scale digital repositories and asset archives developed by CERN. Features petabyte-scale metadata modeling, elastic search indices, and distributed object storage.
 
-- **[TACTIC](https://github.com/Southpaw-TACTIC/TACTIC)** [![GitHub stars](https://img.shields.io/github/stars/Southpaw-TACTIC/TACTIC?style=social&color=white)](https://github.com/Southpaw-TACTIC/TACTIC/stargazers)  
+- **[TACTIC](https://github.com/Southpaw-TACTIC/TACTIC)** [![GitHub_Stars](https://img.shields.io/github/stars/Southpaw-TACTIC/TACTIC?style=social&color=white)](https://github.com/Southpaw-TACTIC/TACTIC/stargazers)  
   Dynamic enterprise workflow engine and asset management solution designed specifically for digital content production pipelines, VFX studios, and creative collaboration tracking.
 
-- **[CollectiveAccess](https://github.com/collectiveaccess/providence)** [![GitHub stars](https://img.shields.io/github/stars/collectiveaccess/providence?style=social&color=white)](https://github.com/collectiveaccess/providence/stargazers)  
+- **[CollectiveAccess](https://github.com/collectiveaccess/providence)** [![GitHub_Stars](https://img.shields.io/github/stars/collectiveaccess/providence?style=social&color=white)](https://github.com/collectiveaccess/providence/stargazers)  
   Configurable relational cataloguing and digital asset repository software built for cultural institutions, digital heritage, and specialized multi-format media archives.
 
-- **[OpenAssetIO](https://github.com/OpenAssetIO/OpenAssetIO)** [![GitHub stars](https://img.shields.io/github/stars/OpenAssetIO/OpenAssetIO?style=social&color=white)](https://github.com/OpenAssetIO/OpenAssetIO/stargazers)  
+- **[OpenAssetIO](https://github.com/OpenAssetIO/OpenAssetIO)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenAssetIO/OpenAssetIO?style=social&color=white)](https://github.com/OpenAssetIO/OpenAssetIO/stargazers)  
   Open-source interoperability standard enabling creative tools, DCC applications, and content management systems to communicate seamless asset references across production pipelines.
 
-- **[Phraseanet / Phrasea](https://github.com/alchemy-fr/Phraseanet)** [![GitHub stars](https://img.shields.io/github/stars/alchemy-fr/Phraseanet?style=social&color=white)](https://github.com/alchemy-fr/Phraseanet/stargazers)  
+- **[Phraseanet / Phrasea](https://github.com/alchemy-fr/Phraseanet)** [![GitHub_Stars](https://img.shields.io/github/stars/alchemy-fr/Phraseanet?style=social&color=white)](https://github.com/alchemy-fr/Phraseanet/stargazers)  
   Full-featured open-source web DAM with Elasticsearch indexing, AI-assisted tagging, automated media conversions, export pipelines, and granular rights management.
 
-- **[AtroDAM](https://github.com/atrocore/atrodam)** [![GitHub stars](https://img.shields.io/github/stars/atrocore/atrodam?style=social&color=white)](https://github.com/atrocore/atrodam/stargazers)  
+- **[AtroDAM](https://github.com/atrocore/atrodam)** [![GitHub_Stars](https://img.shields.io/github/stars/atrocore/atrodam?style=social&color=white)](https://github.com/atrocore/atrodam/stargazers)  
   Modern single-page application (SPA) digital asset management system built on AtroCore. Supports automatic duplicate detection, asset relationships, batch metadata editing, and RESTful API integration.
 
-- **[ResourceSpace](https://github.com/resourcespace/resourcespace)** [![GitHub stars](https://img.shields.io/github/stars/resourcespace/resourcespace?style=social&color=white)](https://github.com/resourcespace/resourcespace/stargazers)  
+- **[ResourceSpace](https://github.com/resourcespace/resourcespace)** [![GitHub_Stars](https://img.shields.io/github/stars/resourcespace/resourcespace?style=social&color=white)](https://github.com/resourcespace/resourcespace/stargazers)  
   Time-tested open-source DAM system for enterprise images, video, brand collateral, and audio. Features robust metadata schemas, permission hierarchies, and automated transcoding.
 
-- **[Artbucket](https://github.com/pwnera/artbucket)** [![GitHub stars](https://img.shields.io/github/stars/pwnera/artbucket?style=social&color=white)](https://github.com/pwnera/artbucket/stargazers)  
+- **[Artbucket](https://github.com/pwnera/artbucket)** [![GitHub_Stars](https://img.shields.io/github/stars/pwnera/artbucket?style=social&color=white)](https://github.com/pwnera/artbucket/stargazers)  
   Modern self-hosted DAM and brand guideline manager. Treats design assets, rules, and portals as structured data, with REST APIs, CLI tooling, and Model Context Protocol (MCP) support for AI agents.
 
-- **[Stash](https://github.com/nixentric/stash)** [![GitHub stars](https://img.shields.io/github/stars/nixentric/stash?style=social&color=white)](https://github.com/nixentric/stash/stargazers)  
+- **[Stash](https://github.com/nixentric/stash)** [![GitHub_Stars](https://img.shields.io/github/stars/nixentric/stash?style=social&color=white)](https://github.com/nixentric/stash/stargazers)  
   Lightweight offline-first creative asset organizer and brand style manager tailored for digital artists, designers, and video editors with local caching and fast search.
 
 ---
@@ -127,7 +127,7 @@ Contributions are warmly welcomed! Help keep this directory current, accurate, a
 
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a descriptive feature branch (`git checkout -b add-new-asset-tool`).
-3. 📝 Update `README.md` following the established tabular format (SaaS) or star badge format (Open-Source).
+3. 📝 Update `README.md` following the established tabular format (SaaS) or Stars_Badge format (Open-Source).
 4. 🚀 **Commit** and **Push** your branch, then open a **Pull Request** detailing your additions.
 
 ---
